@@ -1,8 +1,9 @@
-# Plate Vision
+# <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/49d58c98-a489-46af-bb31-985fe934774d" /> Plate Vision
 
 Your production-grade license plate detection and recognition system — fine-tuned YOLOv8 model that spots plates with 99.3% precision, annotates images in real-time, and extracts text via OCR for automated workflows.
 
-Python · YOLOv8 · MLflow · OpenCV · PyTorch
+![Python](https://img.shields.io/badge/Python-3.9+-3776ab?style=flat-square) ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-blue?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-latest-EE4C2C?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-FF6600?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-Tracking-0194E2?style=flat-square)
+
 
 ## What It Does
 
