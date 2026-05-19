@@ -1,0 +1,9 @@
+ultralytics
+mlflow
+fastapi
+uvicorn
+opencv-python 
+pyyaml
+
+python-multipart
+easyocr

@@ -1,0 +1,10 @@
+venv
+temp
+configs
+data
+
+runs
+mlruns
+training
+intermediates
+
