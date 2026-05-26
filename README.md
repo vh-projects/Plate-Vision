@@ -115,7 +115,6 @@ Annotated Dataset (16,000+ images)
 | **mAP@50** | 99.3% |
 | **Precision** | 98.9% |
 | **Recall** | 98.3% |
-| **FPS** | 25+ on GPU, 8+ on CPU |
 | **Model Size** | 11.2 MB (quantized) |
 | **Training Strategy** | Early stopping + best-model checkpointing |
 | **Augmentation** | Mosaic, color jitter, rotation, scale |
